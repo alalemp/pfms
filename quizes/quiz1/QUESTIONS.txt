@@ -1,0 +1,11 @@
+Prepare answers to the following questions in this text file
+
+1) Why does the code fail to compile
+
+2) Upon fixing the compilation error, can we guarentee that the code will run all the time (YES/NO)
+
+3) What is the fundamental flaw of the code
+
+4) Is there a way to guarantee the code will run all the time (you can impose one single constraint within the code)
+
+5) Create a function that prints only the elements of the array that are larger than : mean + one standard deviation
